@@ -1,2 +1,0 @@
-# ComicalCache.github.io
-Website
